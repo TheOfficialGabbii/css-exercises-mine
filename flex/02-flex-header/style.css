@@ -18,6 +18,8 @@
   color: tomato;
   background: white;
   padding: 4px 32px;
+  display: flex;
+  flex-direction: row;
 }
 
 ul {
