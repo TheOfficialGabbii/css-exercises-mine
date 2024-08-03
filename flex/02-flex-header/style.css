@@ -5,7 +5,6 @@
   padding-top: 5px;
   padding-bottom: 5px;
   justify-content: center;
-  align-items: center;
   
 }
 .ul-1{
@@ -28,8 +27,8 @@
   padding: 4px 32px;
   display: flex;
   align-self: center;
-  margin-left: 400px
-  margin-right: 400px
+  margin-left: 200px;
+  margin-right: 200px;
 }
 
 ul {
