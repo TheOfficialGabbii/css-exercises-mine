@@ -1,6 +1,7 @@
 .header  {
   font-family: monospace;
   background: papayawhip;
+  display:f lex;
 }
 .list-1, .list-2{
   display: flex;
@@ -11,6 +12,7 @@
   font-weight: 900;
   color: tomato;
   background: white;
+  padding: 4px 32px;
   display: inline-block
 }
 
@@ -22,6 +24,7 @@ ul {
 a {
   font-size: 22px;
   background: white;
+  padding: 8px;
   /* this removes the line under the links */
   text-decoration: none;
 }
