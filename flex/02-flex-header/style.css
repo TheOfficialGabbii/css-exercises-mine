@@ -6,7 +6,10 @@
   display: flex;
 }
 .left-links{
-  display:flex;
+  display: flex;
+}
+.right-links{
+  display: flex;
 }
 
 .logo {
