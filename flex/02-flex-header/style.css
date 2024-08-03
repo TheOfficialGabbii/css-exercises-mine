@@ -2,9 +2,8 @@
   font-family: monospace;
   background: papayawhip;
 }
-.left-links{
+.header{
   display: flex;
-  flex-direction: row;
 }
 
 .logo {
