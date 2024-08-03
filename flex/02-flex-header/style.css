@@ -3,9 +3,7 @@
   background: papayawhip;
   display:f lex;
 }
-.list-1, .list-2{
-  display: flex;
-}
+
 
 .logo {
   font-size: 48px;
@@ -13,7 +11,9 @@
   color: tomato;
   background: white;
   padding: 4px 32px;
-  display: inline-block
+}
+.logo-div{
+  display: flex}
 }
 
 ul {
