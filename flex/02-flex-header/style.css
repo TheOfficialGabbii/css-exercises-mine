@@ -16,7 +16,8 @@
 .ul-2{
   display: flex;
   flex-direction: row;
-  gap: 20px;
+  margin-left: 300px
+  magin-right: 300px
 }
 
 
