@@ -20,7 +20,7 @@ ul {
   padding: 0;
 }
 .list-1{
-  display-flex;
+  display: flex;
 }
 
 a {
