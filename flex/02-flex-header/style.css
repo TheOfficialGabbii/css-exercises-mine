@@ -6,10 +6,12 @@
 .ul-1{
   display: flex;
   flex-direction: row;
+  gap: 10px;
 }
 .ul-2{
   display: flex;
   flex-direction: row;
+  gap: 10px;
 }
 
 
