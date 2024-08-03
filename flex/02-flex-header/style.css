@@ -2,6 +2,9 @@
   font-family: monospace;
   background: papayawhip;
 }
+.list-1, .list-2{
+  display: flex;
+}
 .header{
   display: flex;
 }
