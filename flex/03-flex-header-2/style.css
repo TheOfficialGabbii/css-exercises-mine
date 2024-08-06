@@ -12,12 +12,6 @@ body {
   background: white;
   border-bottom: 1px solid #ddd;
   box-shadow: 0 0 8px rgba(0,0,0,.1);
-  display: flex;
-  padding-right: 15px;
-  padding-left: 15px;
-}
-.flexible{
-  flex: 3;
 }
 
 .profile-image {
@@ -34,12 +28,6 @@ body {
   font-weight: 900;
   font-style: italic;
 }
-.button-img-div{
-  display: flex;
-  align-items: center;
-  gap: 7px;
-  justify-self: end;
-}
 
 button {
   border: none;
@@ -55,10 +43,9 @@ a {
   color: rebeccapurple;
 }
 
-.link-div{
-  display: flex;
+ul {
+  list-style-type: none;
 }
-
 
 ul {
   list-style-type: none;
