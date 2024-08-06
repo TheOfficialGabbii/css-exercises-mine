@@ -31,7 +31,7 @@ body {
 }
 .button-img-div{
   display: flex;
-  align-items: center;
+  width: 300px;
 }
 
 button {
