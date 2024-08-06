@@ -55,9 +55,11 @@ a {
   color: rebeccapurple;
 }
 
-.links{
+.link-div{
   display: flex;
   justify-content: space-between;
+  width: 400px
+  
 }
 
 
