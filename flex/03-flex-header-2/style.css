@@ -29,13 +29,17 @@ body {
   font-weight: 900;
   font-style: italic;
 }
+.button-img-div{
+  display: flex;
+  align-items: center;
+}
 
 button {
   border: none;
   border-radius: 8px;
   background: rebeccapurple;
   color: white;
-  padding: 0px 15px;
+  padding: 8px 24px;
 }
 
 a {
