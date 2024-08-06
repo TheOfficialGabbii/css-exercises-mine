@@ -43,11 +43,7 @@ a {
   text-decoration: none;
   color: rebeccapurple;
 }
-.notifications{
-  padding-top: 10px;
-  padding-bottom: 10px;
-  
-}
+
 .links{
   display: flex;
 }
