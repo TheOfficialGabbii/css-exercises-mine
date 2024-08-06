@@ -33,7 +33,7 @@ body {
   display: flex;
   align-items: center;
   gap: 7px;
-  justify-content: end;
+  justify-self: end;
 }
 
 button {
