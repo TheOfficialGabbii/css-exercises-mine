@@ -32,7 +32,6 @@ body {
 .button-img-div{
   display: flex;
   width: 300px;
-  height: 50px;
 }
 
 button {
