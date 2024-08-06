@@ -32,6 +32,8 @@ body {
 .button-img-div{
   display: flex;
   align-items: center;
+  gap: 7px;
+  align-self: end;
 }
 
 button {
