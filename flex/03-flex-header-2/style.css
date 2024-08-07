@@ -49,6 +49,10 @@ ul {
   display: flex;
   justify-content: space-between;
 }
+.link-div{
+  display: flex;
+  justify-content: space-between;
+}
 .button-img-div{
   display: flex;
   align-items: center;
