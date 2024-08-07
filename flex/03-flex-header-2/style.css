@@ -48,4 +48,7 @@ ul {
   list-style-type: none;
   display: flex;
 }
+.button-img-div{
+  display: flex;
+}
 
