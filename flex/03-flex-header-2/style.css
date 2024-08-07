@@ -50,5 +50,6 @@ ul {
 }
 .button-img-div{
   display: flex;
+  align-items: center;
 }
 
