@@ -14,7 +14,7 @@ img {
 }
 .info-div{
   display: flex;
-  justify-content: space-between;
+  justify-content: space-evenly;
   gap: 10px;
 }
 .title-div{
