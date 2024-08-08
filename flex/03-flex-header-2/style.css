@@ -47,8 +47,6 @@ a {
 ul {
   margin: none;
   list-style-type: none;
-  display: flex;
-  justify-content: space-between;
 }
 
 .left{
@@ -58,8 +56,11 @@ ul {
 }
 .right{
   display: flex;
-  justify-content: space-between;
   padding: 0px;
   margin: 0px;
+}
+.links{
+  display: flex;
+  justify-content: space-between;
 }
 
