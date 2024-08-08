@@ -13,6 +13,7 @@ img {
 }
 .info-div{
   display: flex;
+  justify-content: center;
 }
 .title-div{
   display: flex;
