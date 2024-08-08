@@ -15,7 +15,7 @@ img {
 .info-div{
   display: flex;
   justify-content: center;
-  gap: 20px;
+  gap: 10px;
 }
 .title-div{
   display: flex;
@@ -25,7 +25,7 @@ img {
 
 .first-fl, .second-fl, .third-fl, .fourth-fl{
   width: 200px;
-  word-spacing: 5px;
+  word-spacing: 3px;
   
 }
 
