@@ -56,5 +56,6 @@ ul {
 }
 .right{
   display: flex;
+  padding: 0;
 }
 
