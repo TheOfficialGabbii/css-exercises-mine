@@ -17,7 +17,6 @@ img {
 }
 .info-div{
   display: flex;
-  flex-direction: column;
 }
 
 .first-fl, .second-fl, .third-fl, .fourth-fl{
