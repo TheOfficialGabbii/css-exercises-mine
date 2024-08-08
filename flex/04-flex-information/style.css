@@ -22,8 +22,6 @@ img {
 }
 .first-fl, .second-fl, .third-fl, .fourth-fl{
   display: flex;
-  flex-direction: column;
-  justify-content: center;
 }
 
 /* do not edit this footer */
