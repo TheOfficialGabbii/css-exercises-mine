@@ -10,7 +10,7 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
-  word-spacing: 5px;
+  word-spacing: 15px;
 }
 .info-div{
   display: flex;
