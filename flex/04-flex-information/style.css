@@ -22,6 +22,10 @@ img {
   display: flex;
   flex-direction: column;
 }
+.first-fl, .second-fl, .third-fl, .fourth-fl{
+  display: flex;
+  flex-direction: column;
+}
 
 /* do not edit this footer */
 .footer {
