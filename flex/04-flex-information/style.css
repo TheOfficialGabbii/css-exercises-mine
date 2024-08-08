@@ -22,7 +22,7 @@ img {
 .first-fl, .second-fl, .third-fl, .fourth-fl{
   display: flex;
   justify-content: center;
-  flex-direction: row;
+  flex-direction: column;
 }
 
 /* do not edit this footer */
