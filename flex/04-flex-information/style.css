@@ -11,14 +11,16 @@ img {
   font-size: 36px;
   font-weight: 900;
 }
+.info-div{
+  display: flex;
+}
 .title-div{
   display: flex;
   justify-content: center;
 }
 
 .first-fl, .second-fl, .third-fl, .fourth-fl{
-  display: flex;
-  justify-content: center;
+
 }
 
 /* do not edit this footer */
