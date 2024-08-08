@@ -18,6 +18,10 @@ img {
 .info-div{
   display: flex;
 }
+.column-info{
+  display: flex;
+  flex-direction: column;
+}
 
 /* do not edit this footer */
 .footer {
