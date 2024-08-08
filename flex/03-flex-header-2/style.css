@@ -53,9 +53,12 @@ ul {
 
 .left{
   display: flex;
+  padding: 0px;
+  margin: 0px;
 }
 .right{
   display: flex;
-  padding: 0;
+  padding: 0px;
+  margin: 0px;
 }
 
