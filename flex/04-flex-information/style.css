@@ -24,8 +24,10 @@ img {
 }
 
 .first-fl, .second-fl, .third-fl, .fourth-fl{
+  display: flex;
   width: 200px;
   word-spacing: 3px;
+  
   
 }
 
