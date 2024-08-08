@@ -28,7 +28,7 @@ img {
   flex-direction: column;
   justify-content: center;
   width: 195px;
-  
+  align-items: center;
   
 }
 
