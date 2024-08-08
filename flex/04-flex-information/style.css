@@ -15,6 +15,9 @@ img {
   display: flex;
   justify-content: center;
 }
+.info-div{
+  display: flex;
+}
 
 /* do not edit this footer */
 .footer {
