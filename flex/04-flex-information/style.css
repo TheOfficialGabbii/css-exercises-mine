@@ -11,6 +11,10 @@ img {
   font-size: 36px;
   font-weight: 900;
 }
+.title-div{
+  display: flex;
+  justify-content: center;
+}
 
 /* do not edit this footer */
 .footer {
