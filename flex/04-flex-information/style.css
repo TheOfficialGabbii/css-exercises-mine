@@ -13,13 +13,12 @@ img {
 }
 .title-div{
   display: flex;
-  justify-content: center;
 }
 .info-div{
   display: flex;
+  flex-direction: column;
 }
 
-}
 .first-fl, .second-fl, .third-fl, .fourth-fl{
   display: flex;
 }
