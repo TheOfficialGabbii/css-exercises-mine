@@ -15,6 +15,7 @@ img {
 .info-div{
   display: flex;
   justify-content: center;
+  gap: 10px;
 }
 .title-div{
   display: flex;
@@ -25,7 +26,7 @@ img {
 .first-fl, .second-fl, .third-fl, .fourth-fl{
   width: 180px;
   word-spacing: 5px;
-  gap: 10px;
+  
 }
 
 /* do not edit this footer */
