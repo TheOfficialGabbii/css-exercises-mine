@@ -58,7 +58,8 @@ ul {
 }
 .right{
   display: flex;
-  align-items: center
+  align-items: center;
+  gap: 10px;
 }
 .links{
   display: flex;
