@@ -13,15 +13,16 @@ img {
 }
 .title-div{
   display: flex;
+  justify-content: center;
 }
 .info-div{
   display: flex;
   flex-direction: column;
-  justify-content: center;
 }
 
 .first-fl, .second-fl, .third-fl, .fourth-fl{
   display: flex;
+  justify-content: center;
 }
 
 /* do not edit this footer */
