@@ -17,7 +17,6 @@ img {
 }
 .info-div{
   display: flex;
-  align-items: center;
 }
 
 }
@@ -25,6 +24,7 @@ img {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  align-items: center;
 }
 
 /* do not edit this footer */
