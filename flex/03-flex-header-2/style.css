@@ -50,12 +50,11 @@ ul {
   display: flex;
   justify-content: space-between;
 }
-.link-div{
+
+.left{
   display: flex;
-  justify-content: space-between;
 }
-.button-img-div{
+.right{
   display: flex;
-  align-items: center;
 }
 
