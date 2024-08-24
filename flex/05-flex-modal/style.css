@@ -9,6 +9,9 @@ body {
   margin: 0;
   background: #aaa;
   color: #333;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .modal {
